@@ -25,14 +25,14 @@
 #      z = data.splitlines()
 #      print(len(z))
 
-secret = 7 
+# secret = 7 
 
-while True:
-    guess = int(input("enter the number"))
-    if guess > secret :
-        print("high")
-    elif guess < secret :
-        print("low")
-    else:
-        print("correct")
-        break
+# while True:
+#     guess = int(input("enter the number"))
+#     if guess > secret :
+#         print("high")
+#     elif guess < secret :
+#         print("low")
+#     else:
+#         print("correct")
+#         break
