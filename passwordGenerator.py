@@ -1,6 +1,6 @@
 import random
 
-chars = "shlok0singh4321@#"
+chars = "abcdeghigh0987654@$IJKLMNOPrstu321"
 
 password = ""
 for i in range(8):
